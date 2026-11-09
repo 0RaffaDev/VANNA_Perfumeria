@@ -7,8 +7,6 @@ Aplicación desarrollada con **React + Vite**, con estética de lujo en **negro 
 
 ## Capturas
 
-Colocá las imágenes en `public/assets/` y actualizá los nombres si hace falta.
-
 | Vista | Captura |
 |---|---|
 | Inicio | ![Inicio](./public/assets/home.png) |

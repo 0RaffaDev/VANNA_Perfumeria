@@ -42,52 +42,6 @@ Colocá las imágenes en `public/assets/` y actualizá los nombres si hace falta
 - JavaScript (ESM)
 - CSS (sistema de estilos en `src/App.css` / `src/index.css`)
 
-## Requisitos
-
-- Node.js (recomendado: versión LTS reciente)
-- npm
-
-## Instalación y uso
-
-```bash
-npm install
-npm run dev
-```
-
-Abrí la URL que indique Vite (normalmente `http://localhost:5173`).
-
-### Scripts
-
-```bash
-npm run dev      # entorno de desarrollo
-npm run build    # build de producción
-npm run preview  # previsualizar build
-npm run lint     # ESLint
-```
-
-## Configuración
-
-Antes de publicar, reemplazá los placeholders:
-
-### WhatsApp y contacto
-- `src/components/CartDrawer.jsx`
-  - `WHATSAPP_NUMBER` (formato: país + área + número, sin `+`, ej. `54911XXXXXXXX`)
-- `src/components/AboutContact.jsx`
-  - `WHATSAPP_NUMBER`
-
-### Transferencia bancaria (10% OFF)
-- `src/components/CartDrawer.jsx`
-  - `TRANSFER_ALIAS`
-  - `TRANSFER_CBU`
-  - `TRANSFER_TITULAR`
-
-### Mercado Pago
-- `src/components/CartDrawer.jsx`: la integración actual es una **simulación**. Conectá tu link de pago, Checkout Pro o SDK según tu implementación.
-
-### Precios y catálogo
-- `src/data/perfumes.js`: precios por tamaño (`tamanos[].precio`), stock, destacados y datos de fragancias.
-- Los precios se calculan en el frontend a partir de este archivo (el carrito y las tarjetas se actualizan automáticamente).
-
 ## Estructura del proyecto
 
 ```text
@@ -115,13 +69,6 @@ Antes de publicar, reemplazá los placeholders:
 ├─ package.json
 └─ vite.config.js
 ```
-
-## Notas sobre el catálogo
-
-- `src/data/perfumes.js` fue generado a partir del PDF de campaña Millanel ubicado en `catalogo-input/`.
-- Algunas fragancias pueden no tener pirámide olfativa completa si la fuente no expone ese dato en texto estructurado; en esos casos la UI muestra “a confirmar/consultar”.
-- Revisá códigos, equivalencias, precios y disponibilidad antes de usar en producción.
-
 ## Licencia
 
 Uso interno/comercial según corresponda al proyecto VANNA.  

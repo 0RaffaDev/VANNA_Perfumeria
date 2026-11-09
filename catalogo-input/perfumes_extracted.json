@@ -1,0 +1,2145 @@
+{
+  "meta": {
+    "source": "catalogo-input/C09-26.pdf",
+    "catalogo": "C09-26 (Millanel)",
+    "total": 54,
+    "con_notas_olfativas": 2,
+    "nota": "Alternativas extraídas del texto embebido del PDF. Las grillas (págs. 28-41) son mayormente gráficas: códigos/inspiraciones/familias recuperados por heurística de orden lineal; pirámides olfativas completas solo donde el texto las incluye. Verificar contra el catálogo original antes de publicar."
+  },
+  "unmatched_alternativas": [
+    {
+      "page": 29,
+      "insp": "Eden de Cacharel",
+      "fam": "floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "J’adore de Dior",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Halloween de Jesús del Pozo",
+      "fam": "floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Cabotine de Grès",
+      "fam": "floral verde",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Amor Amor de Cacharel",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Very Irrésistible de Givenchy",
+      "fam": "floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Cherry in the Air de Escada",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Coco Mademoiselle de Chanel",
+      "fam": "chypre floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Acqua di Gioia de Armani",
+      "fam": "floral acuática",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "La vie est belle de Lancôme",
+      "fam": "oriental floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 29,
+      "insp": "Black XS L’Excès de Rabanne",
+      "fam": "oriental floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 30,
+      "insp": "Olympéa Intense de Rabanne",
+      "fam": "ambarada floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 30,
+      "insp": "Black Opium de Yves Saint Laurent",
+      "fam": "floriental ambarada",
+      "genero": "femenino"
+    },
+    {
+      "page": 30,
+      "insp": "Scandal de Jean Paul Gaultier Con una fragancia envolvente e irresistible,",
+      "fam": "floral ambarada",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "Love Rock de Shakira",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "Sweet like candy de Ariana Grande",
+      "fam": "floral frutal gourmand",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "RiRi de Rihanna",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "CH Queens de Carolina Herrera",
+      "fam": "oriental floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "Pure XS for her de Rabanne",
+      "fam": "oriental floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "Idôle de Lancôme",
+      "fam": "floral chypre",
+      "genero": "femenino"
+    },
+    {
+      "page": 31,
+      "insp": "Scandal by night de Jean Paul Gaultier",
+      "fam": "ambarada floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Live Irrésistible Blossom Crush de Givenchy",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Light Blue Dreaming in Portofino de Dolce & Gabbana",
+      "fam": "floral amaderada",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Mon Paris de Yves Saint Laurent",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Flower Poppy Bouquet de Kenzo",
+      "fam": "floriental frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Fame de Rabanne",
+      "fam": "chypre frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Hot! hot! hot! de Carolina Herrera",
+      "fam": "floriental frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Angel Nova de Mugler",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "So Scandal! de Jean Paul Gaultier",
+      "fam": "chypre frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 32,
+      "insp": "Olympéa Solar de Rabanne",
+      "fam": "floral ambarada",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "My way de Armani",
+      "fam": "floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "Nina Extra Rouge de Nina Ricci",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "Lady Million Fabulous de Rabanne",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "Very Good Girl de Carolina Herrera",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "Very Good Girl Glam de Carolina",
+      "fam": "ambarada floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "Fairy Love de Escada",
+      "fam": "floral amaderada",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "My Way Intense de Armani",
+      "fam": "floral amaderada",
+      "genero": "femenino"
+    },
+    {
+      "page": 33,
+      "insp": "The icon de Banderas • 1 Fragancia alternativa de 30 ml",
+      "fam": "ambarada floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "Libre de Yves Saint Laurent",
+      "fam": "floral amaderada",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "Miss Dior Blooming Bouquet de Dior",
+      "fam": "floral gourmand",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "The Icon Splendid de Banderas",
+      "fam": "floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "Donna Born in Roma de Valentino",
+      "fam": "ambarada floral",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "La Bomba de Carolina Herrera",
+      "fam": "floral ambarada",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "Boss The Scent Elixir Parfum Intense de Hugo Boss",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 34,
+      "insp": "Burberry Her de Burberry",
+      "fam": "floral frutal",
+      "genero": "femenino"
+    },
+    {
+      "page": 36,
+      "insp": "CK One Summer 2008 de Calvin Klein",
+      "fam": "cítrica acuosa",
+      "genero": "unisex"
+    },
+    {
+      "page": 36,
+      "insp": "CK One de Calvin Klein",
+      "fam": "cítrica aromática",
+      "genero": "unisex"
+    },
+    {
+      "page": 36,
+      "insp": "CK One Summer 2020 de Calvin Klein",
+      "fam": "cítrica amaderada",
+      "genero": "unisex"
+    },
+    {
+      "page": 36,
+      "insp": "Santal 33ª de Le Labo",
+      "fam": "aromática amaderada",
+      "genero": "unisex"
+    },
+    {
+      "page": 37,
+      "insp": "Polo Sport de Ralph Lauren",
+      "fam": "aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 37,
+      "insp": "Acqua Di Gio de Armani",
+      "fam": "ambarada amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 37,
+      "insp": "Polo Blue de Ralph Lauren",
+      "fam": "ambarada amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 37,
+      "insp": "Angel Men de Mugler",
+      "fam": "aromática acuática",
+      "genero": "masculino"
+    },
+    {
+      "page": 37,
+      "insp": "Tommy de Tommy Hilfiger",
+      "fam": "chypre",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Blue Seduction de Banderas",
+      "fam": "fougère",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Polo Ultra Blue de Ralph Lauren",
+      "fam": "amaderada oriental",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "One Million Lucky de Rabanne",
+      "fam": "aromática fresca",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Pure XS MEN de Rabanne",
+      "fam": "amaderada especiada",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Polo Red de Ralph Lauren",
+      "fam": "amaderada acuática",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Bad Boy de Carolina Herrera",
+      "fam": "amaderada ambarada",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Light Blue de Dolce & Gabbana",
+      "fam": "fougère aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "One Million Intense de Rabanne",
+      "fam": "cítrica acuática",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Invictus de Rabanne",
+      "fam": "amaderada ambarada",
+      "genero": "masculino"
+    },
+    {
+      "page": 38,
+      "insp": "Black XS L’aphrodisiaque de Rabanne",
+      "fam": "fougère amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "Phantom de Rabanne",
+      "fam": "amaderada especiada",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "The Icon de Antonio Banderas",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "Wanted by night de Azzaro",
+      "fam": "ambarada amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "Impact de Tommy Hilfiger",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "Invictus Legend de Rabanne",
+      "fam": "amaderada cítrica",
+      "genero": "masculino"
+    },
+    {
+      "page": 39,
+      "insp": "CH Under the sea de Carolina Herrera Una colección de fragancias que no solo destacan por su",
+      "fam": "fougère amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Dylan Blue de Versace",
+      "fam": "aromática amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "One Million Elixir de Rabanne",
+      "fam": "ambarada amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "One Million Royal de Rabanne",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "L’eau Bleue d’Issey de Issey Miyake",
+      "fam": "oriental especiada",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Kenzo Homme Intense de Kenzo",
+      "fam": "aromática frutal",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Stronger with you de Giorgio Armani",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Agua Fresca Citrus Cedro de Adolfo Domínguez",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Scandal pour homme de Jean Paul Gaultier",
+      "fam": "fougère ambarada",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Invictus Platinum de Rabanne",
+      "fam": "amaderada acuática",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "Hot! hot! hot! de Carolina Herrera",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 40,
+      "insp": "K de Dolce & Gabbana Una colección de fragancias que no solo destacan por su",
+      "fam": "especiada amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "L’eau majeure d’Issey de Issey Miyake",
+      "fam": "amaderada acuática",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "King of Seduction Absolute de Antonio Banderas",
+      "fam": "fougère amaderada",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Bad Boy Le Parfum de Carolina Herrera",
+      "fam": "amaderada ambarada",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Nuit d’Issey de de Issey Miyake",
+      "fam": "amaderada especiada",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Bad Boy Cobalt de Carolina Herrera",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Y de Yves Saint Laurent",
+      "fam": "fougère aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Le Male Elixir de Jean Paul Gaultier",
+      "fam": "ambarada fougère",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "The Icon Attitude de Banderas",
+      "fam": "aromática fougère",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Light Blue Summer Vibes de Dolce & Gabbana",
+      "fam": "amaderada aromática",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Million Gold for Him de Rabanne",
+      "fam": "amaderada especiada",
+      "genero": "masculino"
+    },
+    {
+      "page": 41,
+      "insp": "Acqua Di Gio Profondo de Armani",
+      "fam": "aromática fougère",
+      "genero": "masculino"
+    }
+  ],
+  "perfumes": [
+    {
+      "id": "m-1",
+      "codigoMillanel": "1",
+      "nombreVanna": "VANNA N° 1",
+      "inspiracion": "Chanel N° 5 de Chanel",
+      "genero": "femenino",
+      "familia": "floral aldehídico",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-19",
+      "codigoMillanel": "19",
+      "nombreVanna": "VANNA N° 19",
+      "inspiracion": "Tommy Girl de Tommy Hilfiger",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-29",
+      "codigoMillanel": "29",
+      "nombreVanna": "VANNA N° 29",
+      "inspiracion": "Kenzo pour homme de Kenzo",
+      "genero": "masculino",
+      "familia": "chypre fresca",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-36",
+      "codigoMillanel": "36",
+      "nombreVanna": "VANNA N° 36",
+      "inspiracion": "Heiress de Paris Hilton",
+      "genero": "femenino",
+      "familia": "floriental",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-40",
+      "codigoMillanel": "40",
+      "nombreVanna": "VANNA N° 40",
+      "inspiracion": "L’eau d’Issey Men de Issey Miyake",
+      "genero": "masculino",
+      "familia": "aromática fougère",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-54",
+      "codigoMillanel": "54",
+      "nombreVanna": "VANNA N° 54",
+      "inspiracion": "Kenzo Pour Homme de Kenzo",
+      "genero": "masculino",
+      "familia": "amaderada acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-55",
+      "codigoMillanel": "55",
+      "nombreVanna": "VANNA N° 55",
+      "inspiracion": "One Million de Rabanne",
+      "genero": "masculino",
+      "familia": "chypre",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-57",
+      "codigoMillanel": "57",
+      "nombreVanna": "VANNA N° 57",
+      "inspiracion": "Lady Million de Rabanne",
+      "genero": "femenino",
+      "familia": "floral chypre",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-62",
+      "codigoMillanel": "62",
+      "nombreVanna": "VANNA N° 62",
+      "inspiracion": "Flower de Kenzo",
+      "genero": "femenino",
+      "familia": "almizcle floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-64",
+      "codigoMillanel": "64",
+      "nombreVanna": "VANNA N° 64",
+      "inspiracion": "L’eau d’Issey de Issey Miyake",
+      "genero": "femenino",
+      "familia": "frutal oriental",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-65",
+      "codigoMillanel": "65",
+      "nombreVanna": "VANNA N° 65",
+      "inspiracion": "212 Men de Carolina Herrera",
+      "genero": "masculino",
+      "familia": "almizcle amaderada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-71",
+      "codigoMillanel": "71",
+      "nombreVanna": "VANNA N° 71",
+      "inspiracion": "CK One de Calvin Klein",
+      "genero": "unisex",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-117",
+      "codigoMillanel": "117",
+      "nombreVanna": "VANNA N° 117",
+      "inspiracion": "CH de Carolina Herrera",
+      "genero": "femenino",
+      "familia": "floral acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-124",
+      "codigoMillanel": "124",
+      "nombreVanna": "VANNA N° 124",
+      "inspiracion": "Angel de Mugler",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-132",
+      "codigoMillanel": "132",
+      "nombreVanna": "VANNA N° 132",
+      "inspiracion": "Nina de Nina Ricci",
+      "genero": "femenino",
+      "familia": "oriental floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-137",
+      "codigoMillanel": "137",
+      "nombreVanna": "VANNA N° 137",
+      "inspiracion": "One Million de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-147",
+      "codigoMillanel": "147",
+      "nombreVanna": "VANNA N° 147",
+      "inspiracion": "212 VIP Men de Carolina Herrera",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-168",
+      "codigoMillanel": "168",
+      "nombreVanna": "VANNA N° 168",
+      "inspiracion": "Invictus de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-182",
+      "codigoMillanel": "182",
+      "nombreVanna": "VANNA N° 182",
+      "inspiracion": "Black XS L’aphrodisiaque de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-184",
+      "codigoMillanel": "184",
+      "nombreVanna": "VANNA N° 184",
+      "inspiracion": "Blue Seduction de Banderas",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-185",
+      "codigoMillanel": "185",
+      "nombreVanna": "VANNA N° 185",
+      "inspiracion": "Light Blue Dolce & Gabbana",
+      "genero": "femenino",
+      "familia": "cítrica",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-186",
+      "codigoMillanel": "186",
+      "nombreVanna": "VANNA N° 186",
+      "inspiracion": "Olympéa de Rabanne",
+      "genero": "femenino",
+      "familia": "oriental floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-190",
+      "codigoMillanel": "190",
+      "nombreVanna": "VANNA N° 190",
+      "inspiracion": "Sauvage de Dior",
+      "genero": "masculino",
+      "familia": "aromática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-194",
+      "codigoMillanel": "194",
+      "nombreVanna": "VANNA N° 194",
+      "inspiracion": "Sì de Armani",
+      "genero": "femenino",
+      "familia": "chypre floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-197",
+      "codigoMillanel": "197",
+      "nombreVanna": "VANNA N° 197",
+      "inspiracion": "CH Men de Carolina Herrera",
+      "genero": "masculino",
+      "familia": "amaderada especiada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-198",
+      "codigoMillanel": "198",
+      "nombreVanna": "VANNA N° 198",
+      "inspiracion": "Poison Girl de Dior",
+      "genero": "femenino",
+      "familia": "oriental gourmand",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-199",
+      "codigoMillanel": "199",
+      "nombreVanna": "VANNA N° 199",
+      "inspiracion": "King of Seduction de Banderas",
+      "genero": "masculino",
+      "familia": "cítrica acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-201",
+      "codigoMillanel": "201",
+      "nombreVanna": "VANNA N° 201",
+      "inspiracion": "Good Girl de Carolina Herrera",
+      "genero": "femenino",
+      "familia": "floral amaderada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-204",
+      "codigoMillanel": "204",
+      "nombreVanna": "VANNA N° 204",
+      "inspiracion": "Queen of seduction de Antonio Banderas",
+      "genero": "femenino",
+      "familia": "floral acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-206",
+      "codigoMillanel": "206",
+      "nombreVanna": "VANNA N° 206",
+      "inspiracion": "Bombshell de Victoria’s Secret",
+      "genero": "femenino",
+      "familia": "frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-208",
+      "codigoMillanel": "208",
+      "nombreVanna": "VANNA N° 208",
+      "inspiracion": "Invictus Aqua de Rabanne",
+      "genero": "masculino",
+      "familia": "amaderada ozónica",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-209",
+      "codigoMillanel": "209",
+      "nombreVanna": "VANNA N° 209",
+      "inspiracion": "La Vie Est Belle Florale de Lancôme",
+      "genero": "femenino",
+      "familia": "floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-211",
+      "codigoMillanel": "211",
+      "nombreVanna": "VANNA N° 211",
+      "inspiracion": "The Golden Secret de Banderas",
+      "genero": "masculino",
+      "familia": "aromática especiada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-245",
+      "codigoMillanel": "245",
+      "nombreVanna": "VANNA N° 245",
+      "inspiracion": "Polo Red de Ralph Lauren",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-259",
+      "codigoMillanel": "259",
+      "nombreVanna": "VANNA N° 259",
+      "inspiracion": "Invictus Legend de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-262",
+      "codigoMillanel": "262",
+      "nombreVanna": "VANNA N° 262",
+      "inspiracion": "Good girl Suprême de Carolina Herrera",
+      "genero": "femenino",
+      "familia": "floral ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-264",
+      "codigoMillanel": "264",
+      "nombreVanna": "VANNA N° 264",
+      "inspiracion": "Toy 2 Bubble Gum de Moschino",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-265",
+      "codigoMillanel": "265",
+      "nombreVanna": "VANNA N° 265",
+      "inspiracion": "The Icon de Banderas",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-266",
+      "codigoMillanel": "266",
+      "nombreVanna": "VANNA N° 266",
+      "inspiracion": "CH Under the sea de Carolina Herrera",
+      "genero": "femenino",
+      "familia": "floral ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-268",
+      "codigoMillanel": "268",
+      "nombreVanna": "VANNA N° 268",
+      "inspiracion": "Irrésistible de Givenchy",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-271",
+      "codigoMillanel": "271",
+      "nombreVanna": "VANNA N° 271",
+      "inspiracion": "Phantom de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-276",
+      "codigoMillanel": "276",
+      "nombreVanna": "VANNA N° 276",
+      "inspiracion": "Scandal pour homme de J. P . Gaultier",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-284",
+      "codigoMillanel": "284",
+      "nombreVanna": "VANNA N° 284",
+      "inspiracion": "Invictus Platinum de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-287",
+      "codigoMillanel": "287",
+      "nombreVanna": "VANNA N° 287",
+      "inspiracion": "K de Dolce & Gabanna",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-295",
+      "codigoMillanel": "295",
+      "nombreVanna": "VANNA N° 295",
+      "inspiracion": "King of Seduction Absolute de Banderas",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-299",
+      "codigoMillanel": "299",
+      "nombreVanna": "VANNA N° 299",
+      "inspiracion": "Fame Parfum de Rabanne",
+      "genero": "femenino",
+      "familia": "floral ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-301",
+      "codigoMillanel": "301",
+      "nombreVanna": "VANNA N° 301",
+      "inspiracion": "One Million Elixir de Rabanne",
+      "genero": "masculino",
+      "familia": null,
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-303",
+      "codigoMillanel": "303",
+      "nombreVanna": "VANNA N° 303",
+      "inspiracion": "Gaultier Divine de Jean Paul Gaultier",
+      "genero": "femenino",
+      "familia": "floral ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-304",
+      "codigoMillanel": "304",
+      "nombreVanna": "VANNA N° 304",
+      "inspiracion": "Angel Elixir de Mugler",
+      "genero": "femenino",
+      "familia": "floral",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-305",
+      "codigoMillanel": "305",
+      "nombreVanna": "VANNA N° 305",
+      "inspiracion": "Alien de Mugler",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-307",
+      "codigoMillanel": "307",
+      "nombreVanna": "VANNA N° 307",
+      "inspiracion": "KENZO HOMME INTENSE DE KENZO",
+      "genero": "masculino",
+      "familia": "amaderada aromática",
+      "notas": {
+        "salida": [
+          "notas marinas",
+          "pimienta rosa y calipsone"
+        ],
+        "corazon": [
+          "higo y vetiver"
+        ],
+        "fondo": [
+          "sándalo y patchouli"
+        ]
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": true,
+      "stock": true
+    },
+    {
+      "id": "m-309",
+      "codigoMillanel": "309",
+      "nombreVanna": "VANNA N° 309",
+      "inspiracion": "Lady Million Royal de Rabanne",
+      "genero": "femenino",
+      "familia": "floral frutal ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-312",
+      "codigoMillanel": "312",
+      "nombreVanna": "VANNA N° 312",
+      "inspiracion": "Good Girl Blush de Carolina Herrera",
+      "genero": "femenino",
+      "familia": "chypre amaderada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    },
+    {
+      "id": "m-325",
+      "codigoMillanel": "325",
+      "nombreVanna": "VANNA N° 325",
+      "inspiracion": "BURBERRY HER DE BURBERRY",
+      "genero": "femenino",
+      "familia": "floral frutal",
+      "notas": {
+        "salida": [
+          "mora",
+          "cereza y frambuesa"
+        ],
+        "corazon": [
+          "jazmín y violeta"
+        ],
+        "fondo": [
+          "almizcle y ámbar"
+        ]
+      },
+      "tamanos": [
+        {
+          "ml": 30,
+          "precio": 12000
+        },
+        {
+          "ml": 60,
+          "precio": 16600
+        },
+        {
+          "ml": 100,
+          "precio": 23800
+        }
+      ],
+      "destacado": false,
+      "stock": true
+    }
+  ]
+}

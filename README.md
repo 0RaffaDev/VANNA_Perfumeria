@@ -11,10 +11,10 @@ Colocá las imágenes en `public/assets/` y actualizá los nombres si hace falta
 
 | Vista | Captura |
 |---|---|
-| Inicio | ![Inicio](public/assets/home.png) |
-| Catálogo | ![Catálogo](public/assets/catalogo.png) |
-| Carrito / checkout | ![Carrito](public/assets/carrito.png) |
-| Mobile | ![Mobile](public/assets/mobile.png) |
+| Inicio | ![Inicio](./public/assets/home.png) |
+| Catálogo | ![Catálogo](./public/assets/catalogo.png) |
+| Carrito / checkout | ![Carrito](./public/assets/carrito.png) |
+| Mobile | ![Mobile](./public/assets/mobile.png) |
 
 ## Características
 
